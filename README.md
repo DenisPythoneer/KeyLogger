@@ -1,8 +1,8 @@
 ### 🐍 KeyLogger Project
 
 ![Скриншот интерфейса server.py](https://raw.githubusercontent.com/DenisPythoneer/KeyLogger/main/image/screenshotOne.png)
-![Скриншот интерфейса server.py](https://raw.githubusercontent.com/DenisPythoneer/KeyLogger/main/image/screenshotTwo.png)
-![Скриншот интерфейса server.py](https://raw.githubusercontent.com/DenisPythoneer/KeyLogger/main/image/screenshotThree.png)
+![Скриншот интерфейса client.py](https://raw.githubusercontent.com/DenisPythoneer/KeyLogger/main/image/screenshotTwo.png)
+![Скриншот интерфейса builder.py](https://raw.githubusercontent.com/DenisPythoneer/KeyLogger/main/image/screenshotThree.png)
 
 ### 📣 Это проект кейлоггера, состоящий из трех основных компонентов:
 
