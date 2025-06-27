@@ -52,7 +52,7 @@
 
     python client.py
 
-![Скриншот интерфейса client.py](https://raw.githubusercontent.com/DenisPythoneer/KeyLogger/main/image/screenshotTwo.png)
+![Скриншот интерфейса client.py](https://raw.githubusercontent.com/DenisPythoneer/KeyLogger/main/image/ScreenshotTwo.png)
 
 Для создания EXE-версии клиента:
     
