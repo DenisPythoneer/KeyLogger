@@ -1,14 +1,12 @@
-import platform
-from pathlib import Path
-import os
-
 from pystyle import Colors, Colorate, Center
 from colorama import Fore, init
+from pathlib import Path
+import platform
+import os
 
 Error = Colors.red + "[-]" + Colors.reset
 Success = Colors.green + "[+]" + Colors.reset
 Info = Colors.blue + "[*]" + Colors.reset
-
 
 init(autoreset=True)
 
@@ -80,4 +78,5 @@ if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
+
         print(Colors.green + "\nДо свидания!" + Colors.reset)
