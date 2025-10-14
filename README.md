@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-green)
 ![Linux](https://img.shields.io/badge/Linux-Fedora%20%7C%20Arch%20%7C%20Kali-blue)
 ![Keylogger](https://img.shields.io/badge/Keylogger-Research%20Only-red)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Pentesting-red)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 # 🐍 KeyLogger Project
