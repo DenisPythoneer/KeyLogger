@@ -1,13 +1,11 @@
-import keyboard
-import os
-import sys
-import socket
 from datetime import datetime
-import time
-import platform
-
 from pystyle import *
-
+import platform
+import keyboard
+import socket
+import time
+import sys
+import os
 
 Success = Colors.green + "[+]" + Colors.reset
 Error = Colors.red + "[-]" + Colors.reset
