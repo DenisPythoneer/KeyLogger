@@ -1,3 +1,7 @@
+![KeyLogger](https://img.shields.io/badge/Version-2.0-blue)
+![Python](https://img.shields.io/badge/Python-3.9+-green)
+![Linux](https://img.shields.io/badge/Linux-Fedora%20%7C%20Arch%20%7C%20Kali-blue)
+
 # 🐍 KeyLogger Project
 
 ![Скриншот интерфейса server.py](https://raw.githubusercontent.com/DenisPythoneer/KeyLogger/main/image/screenshotOne.png)
