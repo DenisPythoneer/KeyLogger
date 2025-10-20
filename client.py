@@ -106,4 +106,5 @@ if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        print(Colors.green + "\nДо свидания" + Colors.reset)
+        print(Colors.green + "\nДо свидания!" + Colors.reset)
+
