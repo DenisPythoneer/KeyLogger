@@ -74,7 +74,7 @@ def root_check():
         pass
 
 
-def platform_system():
+def main():
     if platform.system() == "Windows":
         if not connect_to_server():
             return
@@ -98,13 +98,8 @@ def platform_system():
         handle_server_commands()
 
 
-def main():
-    platform_system()
-
-
 if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
         print(Colors.green + "\nДо свидания!" + Colors.reset)
-
