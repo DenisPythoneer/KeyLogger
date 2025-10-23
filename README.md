@@ -65,7 +65,11 @@
 
     python client.py
 
+#
+
 ![Скриншот интерфейса client.py](https://raw.githubusercontent.com/DenisPythoneer/KeyLogger/main/image/ScreenshotTwo.png)
+
+#
 
 Для создания EXE-версии клиента:
     
@@ -73,7 +77,11 @@
 
     python builder.py
 
+#
+
 ![Скриншот интерфейса builder.py](https://raw.githubusercontent.com/DenisPythoneer/KeyLogger/main/image/screenshotThree.png)
+
+#
 
 Команды сервера
 
