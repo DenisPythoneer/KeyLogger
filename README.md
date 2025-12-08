@@ -97,4 +97,4 @@
 
 ---
 
-### 🔗 Ссылка на автора: https://github.com/DenisPythoneer
+### 🔗 Ссылка на автора: https://github.com/DenisSh33l4r
